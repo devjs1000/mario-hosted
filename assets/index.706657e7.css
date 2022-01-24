@@ -1,1 +1,2 @@
-body{margin:0;height:90vh;display:flex;justify-content:center;align-items:center}
+body{margin:0;}
+#canvas-container{height:90vh;display:flex;justify-content:center;align-items:center}
